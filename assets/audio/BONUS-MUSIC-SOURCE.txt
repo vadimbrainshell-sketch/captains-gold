@@ -1,0 +1,17 @@
+Bonus entrance music: Pirate tavern loop
+Copyright 2017 Emma Andersson (Emma_MA)
+Source: https://opengameart.org/content/pirate-tavern-loop
+License: CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+Adapted from the project's existing 8.3-second excerpt.
+Changes for bonus-pirate-awakening.m4a: first 5.4 seconds, 1.08x tempo
+without pitch shift, softened upper frequencies, volume adjustment,
+25 ms fade-in, 600 ms fade-out. AAC stereo 96 kb/s, approximately 5 seconds.
+
+Current bonus entrance: bonus-theme-fanfare-15.m4a.
+Source: user-supplied background track 229409_1792427651_2.mp3, via captains-theme-loop.m4a.
+User-selected excerpt: 15.00-20.95 seconds, original tempo and pitch.
+Duration 5.95 seconds matches normal entrance animation; fade-in 0.18 s, fade-out 0.8 s.
+AAC stereo 96 kb/s. Earlier Pirate Tavern excerpt above is no longer used for this entrance.
+
+Current revision: bonus-theme-fanfare-15-soft.m4a, excerpt 15.00-20.45 s (5.45 s), gain 0.8, fade-in 0.18 s, fade-out 0.8 s. Replaces the 5.95-second version.
+Current revision: bonus-theme-fanfare-short.m4a, excerpt 15.00-19.95 s (4.95 s), gain 0.8, fade-in 0.18 s, fade-out 0.8 s. Replaces the 5.45-second version.
